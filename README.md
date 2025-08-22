@@ -1,3 +1,39 @@
+
+# Pizza Delivery App – Full-Stack Food Ordering System
+
+The Pizza Delivery App is a full-stack web application designed to provide an end-to-end food ordering solution. Built with the **MERN stack**, **Redux**, and **Chakra UI/Ant Design**, it offers an interactive platform for customers to browse menus, place orders, and track deliveries, while enabling administrators to manage orders and inventory effectively.
+
+---
+
+## 🚀 Features
+- **User Panel**
+  - Browse menu and customize orders  
+  - Add items to cart and manage checkout  
+  - Track order status in real time  
+  - Secure user authentication and profile management  
+
+- **Admin Panel**
+  - Manage menu items and pricing  
+  - Track and update order statuses  
+  - Inventory and delivery management  
+  - Role-based access control  
+
+- **General Features**
+  - Responsive UI for desktop and mobile  
+  - State management with Redux  
+  - RESTful API integration for smooth data flow  
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend**: React.js, Redux, Axios, Chakra UI, Ant Design  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB (MongoDB Atlas)  
+- **Authentication**: JWT Authentication  
+- **Hosting**: Vercel / Netlify (Frontend), Render / Heroku (Backend)  
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,32 +75,5 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
